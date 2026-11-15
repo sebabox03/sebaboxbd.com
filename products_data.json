@@ -1,0 +1,1105 @@
+[
+  {
+    "id": 1001,
+    "name": "Adobe Creative Cloud All Apps",
+    "slug": "adobe-creative-cloud-all-apps",
+    "type": "variable",
+    "categories": [
+      "software"
+    ],
+    "tags": [
+      "adobe cc",
+      "creative cloud",
+      "photoshop",
+      "illustrator",
+      "premiere pro"
+    ],
+    "images": [
+      "images/products/adobe-cc-all-apps.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 10011,
+        "option": "1 Month (Shared)",
+        "attributes": {
+          "attribute_duration": "1 Month (Shared)"
+        },
+        "price": 450,
+        "regular_price": 799,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 10012,
+        "option": "1 Month (Personal)",
+        "attributes": {
+          "attribute_duration": "1 Month (Personal)"
+        },
+        "price": 899,
+        "regular_price": 1299,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 10013,
+        "option": "1 Year (Personal)",
+        "attributes": {
+          "attribute_duration": "1 Year (Personal)"
+        },
+        "price": 7999,
+        "regular_price": 11999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Complete Adobe Creative Cloud suite including Photoshop, Illustrator, Premiere Pro, After Effects, and 20+ apps. Lowest price in Bangladesh with instant delivery.",
+    "description": "Get the entire collection of 20+ Adobe creative apps including Photoshop, Illustrator, Premiere Pro, After Effects, InDesign, and more. Perfect for designers, video editors, photographers, and creative professionals. Instant activation via WhatsApp with 365-day warranty."
+  },
+  {
+    "id": 1002,
+    "name": "Microsoft 365 Personal",
+    "slug": "microsoft-365-personal",
+    "type": "variable",
+    "categories": [
+      "software"
+    ],
+    "tags": [
+      "office 365",
+      "microsoft office",
+      "word",
+      "excel",
+      "powerpoint",
+      "onedrive"
+    ],
+    "images": [
+      "images/products/ms-365-personal.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 10021,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 299,
+        "regular_price": 499,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 10022,
+        "option": "1 Year",
+        "attributes": {
+          "attribute_duration": "1 Year"
+        },
+        "price": 2499,
+        "regular_price": 4999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Microsoft 365 Personal with Word, Excel, PowerPoint, Outlook, and 1TB OneDrive cloud storage. Genuine license with instant delivery.",
+    "description": "Premium Office apps including Word, Excel, PowerPoint, Outlook, and OneNote. 1TB OneDrive cloud storage for all your files. Use on PC, Mac, tablet, and phone. Genuine Microsoft license with 365-day replacement warranty."
+  },
+  {
+    "id": 1003,
+    "name": "Canva Pro",
+    "slug": "canva-pro",
+    "type": "variable",
+    "categories": [
+      "software"
+    ],
+    "tags": [
+      "canva",
+      "design",
+      "graphics",
+      "templates",
+      "brand kit"
+    ],
+    "images": [
+      "images/products/canva-pro.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 10031,
+        "option": "1 Month (Team Invite)",
+        "attributes": {
+          "attribute_duration": "1 Month (Team Invite)"
+        },
+        "price": 199,
+        "regular_price": 399,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 10032,
+        "option": "1 Year (Team Invite)",
+        "attributes": {
+          "attribute_duration": "1 Year (Team Invite)"
+        },
+        "price": 1499,
+        "regular_price": 3599,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Canva Pro with premium templates, brand kit, magic resize, background remover, and 100M+ stock assets. Invite-based team access.",
+    "description": "Unlock 100M+ premium stock photos, videos, audio, and graphics. 610K+ premium templates. Brand Kit for consistent branding. Magic Resize, Background Remover, and Content Planner. Team invite access with 365-day warranty."
+  },
+  {
+    "id": 1004,
+    "name": "Grammarly Premium",
+    "slug": "grammarly-premium",
+    "type": "variable",
+    "categories": [
+      "software"
+    ],
+    "tags": [
+      "grammarly",
+      "writing",
+      "grammar",
+      "plagiarism",
+      "ai writing"
+    ],
+    "images": [
+      "images/products/grammarly-premium.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 10041,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 399,
+        "regular_price": 699,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 10042,
+        "option": "1 Year",
+        "attributes": {
+          "attribute_duration": "1 Year"
+        },
+        "price": 2999,
+        "regular_price": 6999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Grammarly Premium with advanced grammar checking, plagiarism detection, tone adjustments, and AI-powered writing suggestions.",
+    "description": "Advanced grammar, spelling, and punctuation checker. Plagiarism detector with billions of web pages. Tone adjustments for formal, casual, or confident writing. Full-sentence rewrites with AI. Works across all your devices."
+  },
+  {
+    "id": 1005,
+    "name": "Notion Plus",
+    "slug": "notion-plus",
+    "type": "variable",
+    "categories": [
+      "software"
+    ],
+    "tags": [
+      "notion",
+      "productivity",
+      "notes",
+      "project management",
+      "wiki"
+    ],
+    "images": [
+      "images/products/notion-plus.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 10051,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 299,
+        "regular_price": 599,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 10052,
+        "option": "1 Year",
+        "attributes": {
+          "attribute_duration": "1 Year"
+        },
+        "price": 2499,
+        "regular_price": 5999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Notion Plus with unlimited file uploads, 30-day page history, and advanced collaboration features. Perfect for teams and individuals.",
+    "description": "Unlimited blocks and file uploads. 30-day page history and version restore. Unlimited guests and sync across devices. Advanced permissions and admin tools. The all-in-one workspace for notes, docs, and projects."
+  },
+  {
+    "id": 1006,
+    "name": "Figma Professional",
+    "slug": "figma-professional",
+    "type": "variable",
+    "categories": [
+      "software"
+    ],
+    "tags": [
+      "figma",
+      "ui design",
+      "prototyping",
+      "design systems",
+      "collaboration"
+    ],
+    "images": [
+      "images/products/figma-pro.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 10061,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 499,
+        "regular_price": 899,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 10062,
+        "option": "1 Year",
+        "attributes": {
+          "attribute_duration": "1 Year"
+        },
+        "price": 3999,
+        "regular_price": 8999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Figma Professional with unlimited files, version history, design systems, and advanced prototyping. Team collaboration features included.",
+    "description": "Unlimited Figma files and projects. Unlimited version history. Team libraries and design systems. Advanced prototyping and interactive components. Dev mode for developer handoff. Real-time collaboration with unlimited viewers."
+  },
+  {
+    "id": 2001,
+    "name": "Steam Wallet Code",
+    "slug": "steam-wallet-code",
+    "type": "variable",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "steam",
+      "wallet",
+      "gift card",
+      "games",
+      "pc gaming"
+    ],
+    "images": [
+      "images/products/steam-wallet.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 20011,
+        "option": "500 BDT",
+        "attributes": {
+          "attribute_amount": "500"
+        },
+        "price": 500,
+        "regular_price": 500,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20012,
+        "option": "1000 BDT",
+        "attributes": {
+          "attribute_amount": "1000"
+        },
+        "price": 1000,
+        "regular_price": 1000,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20013,
+        "option": "2000 BDT",
+        "attributes": {
+          "attribute_amount": "2000"
+        },
+        "price": 2000,
+        "regular_price": 2000,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20014,
+        "option": "5000 BDT",
+        "attributes": {
+          "attribute_amount": "5000"
+        },
+        "price": 5000,
+        "regular_price": 5000,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Official Steam Wallet Codes for Bangladesh. Instant delivery via WhatsApp. No expiration, use for any game or DLC on Steam.",
+    "description": "Add funds to your Steam Wallet instantly. Purchase games, DLC, in-game items, and hardware from the Steam store. Codes never expire. Delivered instantly on WhatsApp after payment. 365-day warranty on all codes."
+  },
+  {
+    "id": 2002,
+    "name": "Epic Games Gift Card",
+    "slug": "epic-games-gift-card",
+    "type": "variable",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "epic games",
+      "fortnite",
+      "gift card",
+      "v-bucks",
+      "pc gaming"
+    ],
+    "images": [
+      "images/products/epic-games-card.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 20021,
+        "option": "1000 BDT",
+        "attributes": {
+          "attribute_amount": "1000"
+        },
+        "price": 1000,
+        "regular_price": 1000,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20022,
+        "option": "2500 BDT",
+        "attributes": {
+          "attribute_amount": "2500"
+        },
+        "price": 2500,
+        "regular_price": 2500,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20023,
+        "option": "5000 BDT",
+        "attributes": {
+          "attribute_amount": "5000"
+        },
+        "price": 5000,
+        "regular_price": 5000,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Epic Games Gift Cards for Fortnite V-Bucks, Rocket League credits, and Epic Games Store purchases. Instant WhatsApp delivery.",
+    "description": "Redeem for V-Bucks in Fortnite, credits in Rocket League, or buy games from the Epic Games Store. Instant digital delivery via WhatsApp. No expiration date. Works globally. 365-day replacement warranty."
+  },
+  {
+    "id": 2003,
+    "name": "Xbox Game Pass Ultimate",
+    "slug": "xbox-game-pass-ultimate",
+    "type": "variable",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "xbox",
+      "game pass",
+      "xbox live",
+      "cloud gaming",
+      "pc gaming"
+    ],
+    "images": [
+      "images/products/xbox-game-pass.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 20031,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 499,
+        "regular_price": 899,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20032,
+        "option": "3 Months",
+        "attributes": {
+          "attribute_duration": "3 Months"
+        },
+        "price": 1299,
+        "regular_price": 2499,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20033,
+        "option": "12 Months",
+        "attributes": {
+          "attribute_duration": "12 Months"
+        },
+        "price": 4499,
+        "regular_price": 8999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Xbox Game Pass Ultimate with 100+ games, Xbox Live Gold, EA Play, and Cloud Gaming. Play on Xbox, PC, and mobile.",
+    "description": "Access to 100+ high-quality games including day-one releases. Xbox Live Gold for online multiplayer. EA Play membership included. Cloud Gaming (Beta) on supported devices. Play on Xbox console, PC, and mobile. Stack up to 36 months."
+  },
+  {
+    "id": 2004,
+    "name": "PlayStation Plus Premium",
+    "slug": "playstation-plus-premium",
+    "type": "variable",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "playstation",
+      "ps plus",
+      "ps5",
+      "ps4",
+      "cloud gaming",
+      "game catalog"
+    ],
+    "images": [
+      "images/products/ps-plus-premium.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 20041,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 599,
+        "regular_price": 999,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20042,
+        "option": "3 Months",
+        "attributes": {
+          "attribute_duration": "3 Months"
+        },
+        "price": 1499,
+        "regular_price": 2499,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 20043,
+        "option": "12 Months",
+        "attributes": {
+          "attribute_duration": "12 Months"
+        },
+        "price": 4999,
+        "regular_price": 8999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "PlayStation Plus Premium with Game Catalog (300+ games), Classics Catalog, Cloud Streaming, and Game Trials. For PS5 and PS4.",
+    "description": "Monthly games to download and keep. Game Catalog with 300+ PS4/PS5 games. Classics Catalog with PS1/PS2/PS3/PSP games. Cloud Streaming to PS5/PC. Game Trials for new releases. Online multiplayer and exclusive discounts."
+  },
+  {
+    "id": 3001,
+    "name": "ChatGPT Plus",
+    "slug": "chatgpt-plus",
+    "type": "variable",
+    "categories": [
+      "ai"
+    ],
+    "tags": [
+      "chatgpt",
+      "openai",
+      "gpt-4",
+      "ai assistant",
+      "llm"
+    ],
+    "images": [
+      "images/products/chatgpt-plus.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 30011,
+        "option": "1 Month (Shared)",
+        "attributes": {
+          "attribute_type": "1 Month (Shared)"
+        },
+        "price": 499,
+        "regular_price": 899,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 30012,
+        "option": "1 Month (Personal)",
+        "attributes": {
+          "attribute_type": "1 Month (Personal)"
+        },
+        "price": 1299,
+        "regular_price": 2499,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "ChatGPT Plus with GPT-4 access, faster responses, priority access during peak times, and plugins. Shared or personal account options.",
+    "description": "Access to GPT-4, GPT-4 Turbo, and GPT-4o models. Faster response speeds. Priority access during high demand. Access to plugins, code interpreter, and DALL-E 3. Web browsing capability. 365-day warranty on account access."
+  },
+  {
+    "id": 3002,
+    "name": "Midjourney",
+    "slug": "midjourney",
+    "type": "variable",
+    "categories": [
+      "ai"
+    ],
+    "tags": [
+      "midjourney",
+      "ai art",
+      "image generation",
+      "discord",
+      "creative ai"
+    ],
+    "images": [
+      "images/products/midjourney.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 30021,
+        "option": "1 Month (Basic)",
+        "attributes": {
+          "attribute_plan": "Basic Plan"
+        },
+        "price": 699,
+        "regular_price": 1299,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 30022,
+        "option": "1 Month (Standard)",
+        "attributes": {
+          "attribute_plan": "Standard Plan"
+        },
+        "price": 1499,
+        "regular_price": 2999,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 30023,
+        "option": "1 Month (Pro)",
+        "attributes": {
+          "attribute_plan": "Pro Plan"
+        },
+        "price": 2999,
+        "regular_price": 5999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Midjourney AI art generation with Discord access. Create stunning images from text prompts. Basic, Standard, and Pro plans available.",
+    "description": "Generate high-quality AI art from text prompts. Access via Discord bot. Commercial usage rights included. Fast GPU hours for generation. Private generations on Pro plan. Stealth mode on Pro. 365-day warranty."
+  },
+  {
+    "id": 3003,
+    "name": "GitHub Copilot",
+    "slug": "github-copilot",
+    "type": "variable",
+    "categories": [
+      "ai"
+    ],
+    "tags": [
+      "github copilot",
+      "ai coding",
+      "code completion",
+      "developer tools",
+      "pair programming"
+    ],
+    "images": [
+      "images/products/github-copilot.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 30031,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 499,
+        "regular_price": 899,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 30032,
+        "option": "1 Year",
+        "attributes": {
+          "attribute_duration": "1 Year"
+        },
+        "price": 3999,
+        "regular_price": 7999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "GitHub Copilot AI pair programmer. Real-time code suggestions, chat, and pull request summaries. Works with all major languages and IDEs.",
+    "description": "AI-powered code completion and suggestions. Natural language to code conversion. Chat interface for coding help. Pull request summaries. Works in VS Code, JetBrains, Neovim, and more. Supports Python, JavaScript, TypeScript, Go, Rust, and 50+ languages."
+  },
+  {
+    "id": 3004,
+    "name": "Claude Pro",
+    "slug": "claude-pro",
+    "type": "variable",
+    "categories": [
+      "ai"
+    ],
+    "tags": [
+      "claude",
+      "anthropic",
+      "ai assistant",
+      "llm",
+      "coding"
+    ],
+    "images": [
+      "images/products/claude-pro.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 30041,
+        "option": "1 Month (Shared)",
+        "attributes": {
+          "attribute_type": "1 Month (Shared)"
+        },
+        "price": 499,
+        "regular_price": 899,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 30042,
+        "option": "1 Month (Personal)",
+        "attributes": {
+          "attribute_type": "1 Month (Personal)"
+        },
+        "price": 1299,
+        "regular_price": 2499,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Claude Pro with 5x more usage than free tier, priority access, and early access to new features. Anthropic's advanced AI assistant.",
+    "description": "5x more usage than free Claude. Access to Claude 3 Opus, Sonnet, and Haiku. Priority bandwidth and availability. Early access to new features. 200K token context window. Excellent for coding, analysis, and creative tasks. 365-day warranty."
+  },
+  {
+    "id": 4001,
+    "name": "Netflix Premium",
+    "slug": "netflix-premium",
+    "type": "variable",
+    "categories": [
+      "streaming"
+    ],
+    "tags": [
+      "netflix",
+      "4k",
+      "uhd",
+      "streaming",
+      "movies",
+      "series"
+    ],
+    "images": [
+      "images/products/netflix-premium.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 40011,
+        "option": "1 Month (Shared Profile)",
+        "attributes": {
+          "attribute_type": "1 Month (Shared)"
+        },
+        "price": 299,
+        "regular_price": 599,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40012,
+        "option": "3 Months (Shared Profile)",
+        "attributes": {
+          "attribute_type": "3 Months (Shared)"
+        },
+        "price": 799,
+        "regular_price": 1499,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40013,
+        "option": "1 Month (Personal Account)",
+        "attributes": {
+          "attribute_type": "1 Month (Personal)"
+        },
+        "price": 899,
+        "regular_price": 1499,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Netflix Premium 4K UHD with Dolby Atmos. Shared profile or personal account options. Watch on 4 screens simultaneously.",
+    "description": "Ultra HD 4K streaming with HDR and Dolby Atmos. Watch on 4 devices at the same time. Download on up to 6 devices. Unlimited movies, TV shows, and mobile games. Ad-free viewing. Profile lock with PIN for privacy. 365-day warranty."
+  },
+  {
+    "id": 4002,
+    "name": "Spotify Premium",
+    "slug": "spotify-premium",
+    "type": "variable",
+    "categories": [
+      "streaming"
+    ],
+    "tags": [
+      "spotify",
+      "music",
+      "premium",
+      "offline",
+      "ad-free"
+    ],
+    "images": [
+      "images/products/spotify-premium.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 40021,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 199,
+        "regular_price": 399,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40022,
+        "option": "3 Months",
+        "attributes": {
+          "attribute_duration": "3 Months"
+        },
+        "price": 499,
+        "regular_price": 999,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40023,
+        "option": "6 Months",
+        "attributes": {
+          "attribute_duration": "6 Months"
+        },
+        "price": 899,
+        "regular_price": 1799,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40024,
+        "option": "12 Months",
+        "attributes": {
+          "attribute_duration": "12 Months"
+        },
+        "price": 1499,
+        "regular_price": 2999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Spotify Premium Individual with ad-free listening, offline downloads, unlimited skips, and high-quality audio. Best price in Bangladesh.",
+    "description": "Ad-free music listening. Download 10,000 songs for offline playback. Unlimited skips. High-quality streaming (320 kbps). Spotify Connect for speakers and devices. Access to 100M+ songs and 5M+ podcasts. 365-day warranty."
+  },
+  {
+    "id": 4003,
+    "name": "YouTube Premium",
+    "slug": "youtube-premium",
+    "type": "variable",
+    "categories": [
+      "streaming"
+    ],
+    "tags": [
+      "youtube",
+      "premium",
+      "ad-free",
+      "background play",
+      "downloads",
+      "youtube music"
+    ],
+    "images": [
+      "images/products/youtube-premium.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 40031,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 299,
+        "regular_price": 599,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40032,
+        "option": "3 Months",
+        "attributes": {
+          "attribute_duration": "3 Months"
+        },
+        "price": 799,
+        "regular_price": 1499,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40033,
+        "option": "6 Months",
+        "attributes": {
+          "attribute_duration": "6 Months"
+        },
+        "price": 1399,
+        "regular_price": 2499,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40034,
+        "option": "12 Months",
+        "attributes": {
+          "attribute_duration": "12 Months"
+        },
+        "price": 2499,
+        "regular_price": 4499,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "YouTube Premium with ad-free videos, background play, downloads, and YouTube Music Premium included. Best value in BD.",
+    "description": "Ad-free YouTube experience. Background play on mobile. Download videos for offline viewing. YouTube Music Premium included. Picture-in-picture mode. No ads on YouTube Kids. 365-day warranty on account access."
+  },
+  {
+    "id": 4004,
+    "name": "Disney+ Hotstar",
+    "slug": "disney-hotstar",
+    "type": "variable",
+    "categories": [
+      "streaming"
+    ],
+    "tags": [
+      "disney+",
+      "hotstar",
+      "marvel",
+      "star wars",
+      "cricket",
+      "streaming"
+    ],
+    "images": [
+      "images/products/disney-hotstar.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 40041,
+        "option": "1 Month (Mobile)",
+        "attributes": {
+          "attribute_plan": "Mobile"
+        },
+        "price": 149,
+        "regular_price": 299,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40042,
+        "option": "1 Month (Super)",
+        "attributes": {
+          "attribute_plan": "Super"
+        },
+        "price": 299,
+        "regular_price": 599,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40043,
+        "option": "1 Month (Premium)",
+        "attributes": {
+          "attribute_plan": "Premium"
+        },
+        "price": 499,
+        "regular_price": 899,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40044,
+        "option": "1 Year (Premium)",
+        "attributes": {
+          "attribute_plan": "Premium Yearly"
+        },
+        "price": 3999,
+        "regular_price": 7999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Disney+ Hotstar with Marvel, Star Wars, Disney, Pixar, and live sports including cricket. Mobile, Super, and Premium plans.",
+    "description": "Access to Disney, Pixar, Marvel, Star Wars, and National Geographic. Live sports including IPL cricket. Hotstar Specials original series. Download for offline viewing. Multiple profiles. 4K streaming on Premium plan. 365-day warranty."
+  },
+  {
+    "id": 4005,
+    "name": "Amazon Prime Video",
+    "slug": "amazon-prime-video",
+    "type": "variable",
+    "categories": [
+      "streaming"
+    ],
+    "tags": [
+      "amazon prime",
+      "prime video",
+      "movies",
+      "series",
+      "originals",
+      "free shipping"
+    ],
+    "images": [
+      "images/products/amazon-prime.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 40051,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 179,
+        "regular_price": 299,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40052,
+        "option": "3 Months",
+        "attributes": {
+          "attribute_duration": "3 Months"
+        },
+        "price": 449,
+        "regular_price": 749,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40053,
+        "option": "1 Year",
+        "attributes": {
+          "attribute_duration": "1 Year"
+        },
+        "price": 1499,
+        "regular_price": 1799,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Amazon Prime Video with award-winning originals, movies, and TV shows. Includes Prime shipping benefits. 4K HDR streaming.",
+    "description": "Prime Video with 4K UHD and HDR streaming. Amazon Originals like The Boys, Rings of Power, Reacher. Thousands of movies and TV shows. Download for offline viewing. Free Prime shipping on Amazon.in. Ad-free experience. 365-day warranty."
+  },
+  {
+    "id": 4006,
+    "name": "Apple TV+",
+    "slug": "apple-tv-plus",
+    "type": "variable",
+    "categories": [
+      "streaming"
+    ],
+    "tags": [
+      "apple tv+",
+      "apple originals",
+      "ted lasso",
+      "severance",
+      "4k",
+      "streaming"
+    ],
+    "images": [
+      "images/products/apple-tv-plus.webp"
+    ],
+    "is_in_stock": true,
+    "variations": [
+      {
+        "variation_id": 40061,
+        "option": "1 Month",
+        "attributes": {
+          "attribute_duration": "1 Month"
+        },
+        "price": 199,
+        "regular_price": 399,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40062,
+        "option": "3 Months",
+        "attributes": {
+          "attribute_duration": "3 Months"
+        },
+        "price": 499,
+        "regular_price": 999,
+        "is_in_stock": true,
+        "sku": ""
+      },
+      {
+        "variation_id": 40063,
+        "option": "1 Year",
+        "attributes": {
+          "attribute_duration": "1 Year"
+        },
+        "price": 1599,
+        "regular_price": 2999,
+        "is_in_stock": true,
+        "sku": ""
+      }
+    ],
+    "short_description": "Apple TV+ with critically acclaimed originals like Ted Lasso, Severance, The Morning Show. 4K HDR Dolby Vision and Atmos.",
+    "description": "Award-winning Apple Originals. New shows and movies every month. 4K HDR with Dolby Vision and Dolby Atmos. Ad-free. Download for offline viewing. Family sharing for up to 6 members. Works on Apple devices, smart TVs, and web. 365-day warranty."
+  }
+]
