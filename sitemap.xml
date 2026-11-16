@@ -1,138 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Core Main Pages -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Core Pages -->
   <url>
     <loc>https://www.sebaboxbd.com/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/og-image.jpg</image:loc>
+      <image:title>SebaBoxBD - Digital Subscriptions in Bangladesh</image:title>
+      <image:caption>Premium Digital Subscriptions at Lowest BDT Prices via bKash and Nagad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.sebaboxbd.com/pricing</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.sebaboxbd.com/how-to-buy</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Product Pages (19 Verified Licenses) -->
+  <!-- Product Pages (19 Verified Licenses with Images) -->
   <url>
-    <loc>https://www.sebaboxbd.com/product?id=142</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=392</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=858</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=861</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=390</loc>
-    <lastmod>2026-11-15</lastmod>
+    <loc>https://www.sebaboxbd.com/product?id=1544</loc>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=865</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/vidiq-premium-price-bangladesh.webp?v=3</image:loc>
+      <image:title>vidIQ Boost Premium Subscription</image:title>
+      <image:caption>vidIQ Boost Premium Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.sebaboxbd.com/product?id=1328</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/kuku-tv-premium-bangladesh-price.webp?v=3</image:loc>
+      <image:title>Kuku TV Premium Subscription – 1 Month (Shared Account)</image:title>
+      <image:caption>Kuku TV Premium Subscription – 1 Month (Shared Account) in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
   </url>
   <url>
-    <loc>https://www.sebaboxbd.com/product?id=389</loc>
-    <lastmod>2026-11-15</lastmod>
+    <loc>https://www.sebaboxbd.com/product?id=865</loc>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=852</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=854</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=1544</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=863</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/crunchyroll-premium-subscription-bd.webp?v=3</image:loc>
+      <image:title>Crunchyroll Premium Subscription</image:title>
+      <image:caption>Crunchyroll Premium Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.sebaboxbd.com/product?id=864</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/adobe-creative-cloud-subscription-bd.webp?v=3</image:loc>
+      <image:title>Adobe Creative Cloud Subscription</image:title>
+      <image:caption>Adobe Creative Cloud Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
   </url>
   <url>
-    <loc>https://www.sebaboxbd.com/product?id=855</loc>
-    <lastmod>2026-11-15</lastmod>
+    <loc>https://www.sebaboxbd.com/product?id=863</loc>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=847</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.sebaboxbd.com/product?id=834</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/quizlet-plus-subscription-bd.webp?v=3</image:loc>
+      <image:title>Quizlet Plus Subscription</image:title>
+      <image:caption>Quizlet Plus Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.sebaboxbd.com/product?id=862</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/tiktok-coins-top-up-bd.webp?v=3</image:loc>
+      <image:title>TikTok Coins</image:title>
+      <image:caption>TikTok Coins in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=861</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/youtube-premium-subscription-bd.webp?v=3</image:loc>
+      <image:title>YouTube Premium Subscription</image:title>
+      <image:caption>YouTube Premium Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.sebaboxbd.com/product?id=860</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/facebook-page-likes-followers-bd.webp?v=3</image:loc>
+      <image:title>Facebook Page Likes &amp; Followers</image:title>
+      <image:caption>Facebook Page Likes &amp; Followers in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=858</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/canva-pro-subscription-bd.webp?v=3</image:loc>
+      <image:title>Canva Pro Subscription</image:title>
+      <image:caption>Canva Pro Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=855</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/envato-elements-subscription-bd.webp?v=3</image:loc>
+      <image:title>Envato Elements Subscription</image:title>
+      <image:caption>Envato Elements Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=854</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/supergrok-premium-subscription-bd.webp?v=3</image:loc>
+      <image:title>SuperGrok Premium Subscription</image:title>
+      <image:caption>SuperGrok Premium Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=852</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/google-gemini-pro-subscription-bd.webp?v=3</image:loc>
+      <image:title>Gemini Pro Subscription</image:title>
+      <image:caption>Gemini Pro Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=847</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/capcut-pro-subscription-bd.webp?v=3</image:loc>
+      <image:title>CapCut Pro Subscription</image:title>
+      <image:caption>CapCut Pro Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=834</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/freepik-premium-subscription-bd.webp?v=3</image:loc>
+      <image:title>Freepik Premium Subscription</image:title>
+      <image:caption>Freepik Premium Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=392</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/netflix-premium-subscription-bd.webp?v=3</image:loc>
+      <image:title>Netflix Premium Subscription</image:title>
+      <image:caption>Netflix Premium Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=390</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/amazon-prime-video-subscription-bd.webp?v=3</image:loc>
+      <image:title>Amazon Prime Video Subscription</image:title>
+      <image:caption>Amazon Prime Video Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=389</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/ullu-premium-subscription.webp?v=3</image:loc>
+      <image:title>Ullu Premium Subscription</image:title>
+      <image:caption>Ullu Premium Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.sebaboxbd.com/product?id=142</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/chatgpt-pro-subscription-bd.webp?v=3</image:loc>
+      <image:title>ChatGPT Pro Subscription</image:title>
+      <image:caption>ChatGPT Pro Subscription in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.sebaboxbd.com/product?id=137</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sebaboxbd.com/images/products/clash-of-clans-gold-pass-bd.webp?v=3</image:loc>
+      <image:title>Clash of Clans Gold Pass</image:title>
+      <image:caption>Clash of Clans Gold Pass in Bangladesh via bKash &amp; Nagad</image:caption>
+    </image:image>
   </url>
 </urlset>
